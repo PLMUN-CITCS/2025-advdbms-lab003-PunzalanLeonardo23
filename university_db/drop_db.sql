@@ -1,4 +1,3 @@
-
 -- Step 3: (Optional) Drop the database if needed
 USE `UniversityDB`;
 
